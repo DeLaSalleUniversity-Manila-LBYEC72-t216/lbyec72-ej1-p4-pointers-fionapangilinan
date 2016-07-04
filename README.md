@@ -11,6 +11,3 @@ Input of address works!
 
 ![](2.jpg)
 
-
-Program ends after input of value of X
-![](3.jpg)
